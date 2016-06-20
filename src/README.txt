@@ -1,0 +1,1 @@
+nBody_sim.html must be run on a local server to avoid cross-origin image security errors from Chrome when it tries to load the images used for textures.
